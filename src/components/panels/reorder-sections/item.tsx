@@ -30,7 +30,14 @@ export function Item(props: ItemProps) {
 
   function extractSectionProp() {
     if (data.type === 'text') {
-      return data.props.content.text;
+      const content = data.props?.content;
+      return (
+        content?.text ??
+        content?.value ??
+        content?.children ??
+        content?.content ??
+        ''
+      );
     }
 
     return undefined;
