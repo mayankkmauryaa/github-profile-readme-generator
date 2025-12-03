@@ -1,4 +1,4 @@
-import React, { JSX, useEffect, useState } from 'react';
+import { JSX, useEffect, useState } from 'react';
 
 import { events } from '@events';
 import { Events } from 'types';

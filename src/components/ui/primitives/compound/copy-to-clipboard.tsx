@@ -1,4 +1,4 @@
-import React, { JSX, useEffect, useRef, useState } from 'react';
+import { JSX, useEffect, useRef, useState } from 'react';
 import { copyToClipboard } from 'utils';
 
 export type CopyChildrenArgs = {

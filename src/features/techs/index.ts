@@ -1,6 +1,6 @@
 import dynamic from 'next/dynamic';
 
-import { Icon } from 'components/ui/primitives/atoms/icon';
+// import { Icon } from 'components/ui/primitives/atoms/icon';
 
 import { techsSectionParser } from './parser';
 import { defaultTechsSectionConfig } from './default-config';

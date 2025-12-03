@@ -29,12 +29,13 @@ export function Item(props: ItemProps) {
   >;
 
   function extractSectionProp() {
-    if (data.type === 'text') {
+    if (data.type === 'text' && data.props.content) {
       return data.props.content.text;
     }
 
     return undefined;
   }
+
 
   const content = extractSectionProp();
 

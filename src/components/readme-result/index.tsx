@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import primsjs from 'prismjs';
+import prismjs from 'prismjs';
 
 import { Icon } from 'components/ui/primitives/atoms/icon';
 import { Tooltip } from 'components/ui/primitives/atoms/tooltip';
@@ -19,7 +19,7 @@ export function ReadmeResult() {
   }
 
   useEffect(() => {
-    primsjs.highlightAllUnder(containerRef.current!);
+    prismjs.highlightAllUnder(containerRef.current!);
   }, [content]);
 
   useEffect(() => {

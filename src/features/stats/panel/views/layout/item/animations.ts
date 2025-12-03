@@ -18,7 +18,8 @@ const variants = createFramerMotionVariants({
       pointerEvents: 'none',
 
       transition: {
-        duration: false,
+        // duration: false,
+        duration: 0,
       },
     },
   },

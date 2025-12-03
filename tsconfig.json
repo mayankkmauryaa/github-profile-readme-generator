@@ -8,7 +8,7 @@
       "es2017"
     ],
     "moduleResolution": "node",
-    "ignoreDeprecations": "6.0",
+    // "ignoreDeprecations": "6.0",
     "allowJs": true,
     "noEmit": true,
     "strict": true,
@@ -48,5 +48,6 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts"
+    // ".next/dev/types/**/*.ts"
   ]
 }
