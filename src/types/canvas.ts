@@ -3,6 +3,7 @@ import { Sections } from '.';
 import { Icon } from './icon';
 
 export type CanvasContent = {
+  text: any;
   icons?: Record<string, Icon>;
 };
 
