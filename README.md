@@ -1,12 +1,10 @@
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-<a href="https://profile-readme-generator.netlify.app/">Demo</a>
-
-</div>
+<a href="https://github-profile-readme-generator-seven.vercel.app/">Demo</a>
 
 <div align="center">
-  <h1>Profile Readme Generator</h1>
+  <h1>Github Profile Readme Generator</h1>
   <h3>The best profile readme generator you will find!</h3>
 </div>
 
@@ -122,7 +120,7 @@ Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) 
 
 ## :checkered_flag: Starting
 
-- MAC
+- WINDOWS
 
 ```bash
 # Clone this project
@@ -140,7 +138,7 @@ npm run dev
 # The server will initialize in the <http://localhost:3000>
 ```
 
-- WINDOWS
+- MAC
 
 ```bash
 # Clone this project
