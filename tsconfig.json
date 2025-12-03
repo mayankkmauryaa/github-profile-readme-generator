@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "lib": [
       "dom",
       "es2017"
@@ -25,8 +25,12 @@
     "isolatedModules": true,
     "baseUrl": "src",
     "paths": {
-      "@events": ["events"],
-      "@constants": ["constants"]
+      "@events": [
+        "events"
+      ],
+      "@constants": [
+        "constants"
+      ]
     },
     "incremental": true,
     "plugins": [
@@ -42,6 +46,7 @@
     "**/*.ts",
     "**/*.tsx",
     "next-env.d.ts",
-    ".next/types/**/*.ts"
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
   ]
 }
