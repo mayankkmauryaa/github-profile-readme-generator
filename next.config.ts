@@ -1,11 +1,12 @@
-import { NextConfig } from 'next';
+import { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
+  // swcMinify: true,
   i18n: {
     locales: ['en', 'de', 'es', 'fr', 'pt-BR'],
-    defaultLocale: 'en',
+    defaultLocale: 'en'
   },
-};
+}
 
-export default nextConfig;
+export default nextConfig

@@ -11,37 +11,37 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/fork" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/fork" target="_blank">
     <img src="https://img.shields.io/github/forks/mayankkmauryaa/github-profile-readme-generator?" alt="Badge showing the total of project forks"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/stargazers" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator" target="_blank">
     <img src="https://img.shields.io/github/stars/\aa/profile-readme-generator?" alt="Badge showing the total of project stars"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/commits/main" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/commits/main" target="_blank">
     <img src="https://img.shields.io/github/commit-activity/m/mayankkmauryaa/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/commits/main" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/commits/main" target="_blank">
     <img src="https://img.shields.io/github/last-commit/mayankkmauryaa/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/issues" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/issues" target="_blank">
     <img src="https://img.shields.io/github/issues/mayankkmauryaa/profile-readme-generator?" alt="Badge showing the total of project issues"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/pulls" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/pulls" target="_blank">
     <img src="https://img.shields.io/github/issues-pr/mayankkmauryaa/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/blob/master/LICENSE.md" target="_blank">
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/blob/master/LICENSE.md" target="_blank">
     <img alt="Badge showing project license type" src="https://img.shields.io/github/license/mayankkmauryaa/profile-readme-generator?color=f85149">
   </a>
 </p>
@@ -51,7 +51,7 @@
   <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/mayankkmauryaa/Profile_README-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/mayankkmauryaa/github-profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
 </p>
 
 ## :dart: About
@@ -126,10 +126,10 @@ Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) 
 
 ```bash
 # Clone this project
-git clone https://github.com/mayankkmauryaa/Profile_README-generator
+git clone https://github.com/mayankkmauryaa/github-profile-readme-generator
 
 # Access
-cd Profile_README-generator
+cd github-profile-readme-generator
 
 # Install dependencies
 npm i
@@ -144,10 +144,10 @@ npm run dev
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mayankkmauryaa/Profile_README-generator
+$ git clone https://github.com/mayankkmauryaa/github-profile-readme-generator
 
 # Access
-$ cd Profile_README-generator
+$ cd github-profile-readme-generator
 
 # Install dependencies
 $ yarn

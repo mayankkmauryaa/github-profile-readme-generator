@@ -29,7 +29,7 @@ const navItems: NavItem[] = [
   {
     label: 'Donate',
     props: {
-      href: 'https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS',
+      href: 'https://www.paypal.com/paypalme/MayankMaurya27105',
       target: '_blank',
       rel: 'noreferrer',
     },
