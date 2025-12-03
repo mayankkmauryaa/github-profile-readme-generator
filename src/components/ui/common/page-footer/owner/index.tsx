@@ -10,16 +10,16 @@ export function FooterOwner() {
       />
 
       <div className="flex flex-col h-full justify-center">
-        <Text.Strong>Profile Readme Generator</Text.Strong>
+        <Text.Strong>Github Profile Readme Generator</Text.Strong>
         <Text.Small className="not-italic">
           Developed and maintained by{' '}
           <Text.Link
-            href="https://github.com/maurodesouza"
+            href="https://github.com/mayankkmauryaa"
             target="_blank"
             rel="noreferrer"
             className="text-xs"
           >
-            Mauro de Souza
+            Mayank Maurya
           </Text.Link>
         </Text.Small>
       </div>

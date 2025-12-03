@@ -21,7 +21,7 @@ export function CanvasErrorFallback() {
         <Text.Paragraph>
           If the issue persists, please create a new issue on the{' '}
           <Text.Link
-            href="https://github.com/maurodesouza/profile-readme-generator/issues/new/choose"
+            href="https://github.com/mayankkmauryaa/github-profile-readme-generator/issues/new/choose"
             target="_blank"
             rel="noreferrer"
           >
@@ -37,7 +37,7 @@ export function CanvasErrorFallback() {
           variant="ghost"
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/maurodesouza/profile-readme-generator/issues/new/choose"
+          href="https://github.com/mayankkmauryaa/github-profile-readme-generator/issues/new/choose"
         >
           Create an issue
         </Clickable.ExternalLink>

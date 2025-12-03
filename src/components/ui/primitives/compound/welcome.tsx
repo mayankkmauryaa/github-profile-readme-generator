@@ -54,7 +54,7 @@ export function Welcome() {
       <Text.Paragraph className="max-w-96 mt-auto">
         If you like it, give the{' '}
         <Text.Link
-          href="https://github.com/maurodesouza/profile-readme-generator"
+          href="https://github.com/mayankkmauryaa/github-profile-readme-generator"
           target="_blank"
           rel="noreferrer"
         >

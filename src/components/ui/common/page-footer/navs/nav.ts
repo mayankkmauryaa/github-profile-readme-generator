@@ -21,7 +21,7 @@ const navItems: NavItem[] = [
   {
     label: 'Github',
     props: {
-      href: 'https://github.com/maurodesouza/profile-readme-generator',
+      href: 'https://github.com/mayankkmauryaa/github-profile-readme-generator',
       target: '_blank',
       rel: 'noreferrer',
     },

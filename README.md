@@ -12,37 +12,37 @@
 
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+    <img src="https://img.shields.io/github/forks/mayankkmauryaa/github-profile-readme-generator?" alt="Badge showing the total of project forks"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+    <img src="https://img.shields.io/github/stars/\aa/profile-readme-generator?" alt="Badge showing the total of project stars"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+    <img src="https://img.shields.io/github/commit-activity/m/mayankkmauryaa/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+    <img src="https://img.shields.io/github/last-commit/mayankkmauryaa/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+    <img src="https://img.shields.io/github/issues/mayankkmauryaa/profile-readme-generator?" alt="Badge showing the total of project issues"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+    <img src="https://img.shields.io/github/issues-pr/mayankkmauryaa/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mayankkmauryaa/Profile_README-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/mayankkmauryaa/profile-readme-generator?color=f85149">
   </a>
 </p>
 
@@ -71,11 +71,11 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 ## :rocket: Main Technologies
 
 <a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/mayankkmauryaa/mayankkmauryaa/master/assets/next-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/mayankkmauryaa/mayankkmauryaa/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://tailwindcss.com">
@@ -83,7 +83,7 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 </a> &#xa0; &#xa0;
 
 <a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/mayankkmauryaa/mayankkmauryaa/master/assets/jest-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://eslint.org">
