@@ -1,16 +1,16 @@
-import { useRouter } from 'next/router';
+// import { useRouter } from 'next/router';
 
 import { Text } from 'components/ui/primitives/atoms/text';
-import { Panel } from 'components/ui/primitives/atoms/panel';
-import { ResourceItem } from 'components/ui/primitives/compound/resource-items';
-import { AffiliateWarning } from 'components/ui/primitives/compound/affiliate-warning';
+// import { Panel } from 'components/ui/primitives/atoms/panel';
+// import { ResourceItem } from 'components/ui/primitives/compound/resource-items';
+// import { AffiliateWarning } from 'components/ui/primitives/compound/affiliate-warning';
 
-import { getItems } from './items';
+// import { getItems } from './items';
 
 const PanelRecommendedResources = () => {
-  const { locale = 'en' } = useRouter();
+  // const { locale = 'en' } = useRouter();
 
-  const items = getItems(locale);
+  // const items = getItems(locale);
 
   return (
     <div className="flex flex-col gap-md h-full">
