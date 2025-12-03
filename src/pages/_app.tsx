@@ -66,7 +66,7 @@ const App = ({ Component, pageProps }: AppProps) => {
         <meta name="twitter:site" content={appUrl} />
         <meta
           name="twitter:creator"
-          content="https://github.com/maurodesouza"
+          content="https://github.com/mayankkmauryaa"
         />
       </Head>
 

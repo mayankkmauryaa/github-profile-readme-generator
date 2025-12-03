@@ -14,9 +14,9 @@ const PanelRecommendedResources = () => {
 
   return (
     <div className="flex flex-col gap-md h-full">
-      <Text.Heading as="h2">Level Up Your README</Text.Heading>
+      <Text.Heading as="h2">Extras : to be added later</Text.Heading>
 
-      <div className="flex flex-col gap-xs">
+      {/* <div className="flex flex-col gap-xs">
         <Text.Paragraph>
           Anyone can use templates — but when you know what you’re doing, it
           shows.
@@ -26,15 +26,15 @@ const PanelRecommendedResources = () => {
           👉 Explore resources that will upgrade your skills — and your README.
           Start now.
         </Text.Paragraph>
-      </div>
+      </div> */}
 
-      <Panel.Scrollable className="space-y-md">
+      {/* <Panel.Scrollable className="space-y-md">
         {items.map(item => (
           <ResourceItem.Mapper key={item.title} {...item} />
         ))}
-      </Panel.Scrollable>
+      </Panel.Scrollable> */}
 
-      <AffiliateWarning />
+      {/* <AffiliateWarning /> */}
     </div>
   );
 };
